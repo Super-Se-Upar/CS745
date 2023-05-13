@@ -1,0 +1,15 @@
+acme,1
+zift solutions,1
+mQuess,1
+ADP,1
+apple,2
+samsung,2
+dell,2 
+Bank of India,3
+Bank of Baroda,3
+Bank of Maharashtra,3
+Canara Bank,3
+nike,4
+adidas,4
+puma,4
+fila,4
