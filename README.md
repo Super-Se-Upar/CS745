@@ -4,12 +4,12 @@
 
 ## [Link to Website Demo Video](https://youtu.be/BJKygw7BOrs)
 
-## Team Chusariro : Members
+## Team Chusariro : Name and Roll Numbers of Members
 
-- Sankalp Bhamare 200110096
-- Rohan Rajesh Kalbag 20D170033
-- Jujhaar Singh 200110052
-- Rishabh Ravi 200260041
+- ### Sankalp Bhamare 200110096
+- ### Rohan Rajesh Kalbag 20D170033
+- ### Jujhaar Singh 200110052
+- ### Rishabh Ravi 200260041
 
 ## Front End Website
 
