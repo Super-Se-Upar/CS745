@@ -1,23 +1,16 @@
-# CS 745 Course Project
-
 # Design of a Secure Python Web Application Implementing Chinese Wall Model of Access Control and CSRF Protection
+
+## CS-745 : Principles of Data and System Security
+
+*Developed the application's backend using Flask, a powerful web framework in Python. Utilized Python programming language to implement robust and efficient backend functionalities, including user authentication, database management, and secure file access. Implemented a secure login system using CSRF tokens to prevent cross-site request forgery attacks. Employed industry best practices to ensure the confidentiality and integrity of user credentials and session management. Incorporated the Chinese Wall Model for temporal access control of documents within the application. Designed a comprehensive database structure to manage users, companies, and files, enforcing strict access restrictions based on user roles and conflict of interest criteria.*
 
 ## [Link to Website Demo Video](https://youtu.be/BJKygw7BOrs)
 
-## Team Chusariro : Name and Roll Numbers of Members
-
-- ### Sankalp Bhamare 200110096
-- ### Rohan Rajesh Kalbag 20D170033
-- ### Jujhaar Singh 200110052
-- ### Rishabh Ravi 200260041
-
-## Front End Website
-
-Designed using HTML, Bootstrap
-
-## Backend
-
-Designed using Flask and Python
+## Contributors : Team Chusariro
+- Sankalp Bhamare
+- Rohan Rajesh Kalbag
+- Jujhaar Singh
+- Rishabh Ravi
 
 ## Salient Features of Project
 
