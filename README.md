@@ -7,10 +7,10 @@
 ## [Link to Website Demo Video](https://youtu.be/BJKygw7BOrs)
 
 ## Contributors : Team Chusariro
-- ### Sankalp Bhamare 200110096
-- ### Rohan Rajesh Kalbag 20D170033
-- ### Jujhaar Singh 200110052
-- ### Rishabh Ravi 200260041
+- Sankalp Bhamare
+- Rohan Rajesh Kalbag
+- Jujhaar Singh
+- Rishabh Ravi
 
 ## Salient Features of Project
 
